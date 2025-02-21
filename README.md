@@ -55,7 +55,10 @@ https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
 
 
 
+## Contact Us  
+For support with a skin: **support@darkseal.org**  
 
+For business inquiries: **business@darkseal.org**
 
 ## Disclaimer
 
