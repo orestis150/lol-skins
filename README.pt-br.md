@@ -16,14 +16,14 @@ O criador deste repositório acredita que, com a implementação de práticas pr
 
 ## Conteúdos adicionais
 
-- Confira o [repositório para desenvolvedores](https://github.com/koobzaar/lol-skins-developer), com os IDs dos campeões e skins em vez dos nomes.
+- Confira o [repositório para desenvolvedores](https://github.com/darkseal-org/lol-skins-developer), com os IDs dos campeões e skins em vez dos nomes.
 - Entre no nosso servidor Discord: https://discord.gg/ritoskin
-- Quer fazer uma doação? Confira minha página no Ko-Fi: https://ko-fi.com/koobzaar
+- Quer fazer uma doação? Confira minha página no Ko-Fi: https://ko-fi.com/darksealorg
 - Tutorial para usar este repositório: [RitoSkin - Tutorials](https://www.youtube.com/playlist?list=PLmfRqBUHwQjJKuxoVOiocEoJPi8SnJSRG)
 
 ## Como usar
 
-Você pode usar qualquer ferramenta que permita a injeção de skins customizadas ou conferir o [Exalted](https://ko-fi.com/koobzaar):
+Você pode usar qualquer ferramenta que permita a injeção de skins customizadas ou conferir o [Exalted](https://ko-fi.com/darksealorg):
 
 O Exalted é nossa ferramenta privada que funciona carregando um catálogo de skins do nosso repositório [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer), permitindo que você navegue por uma grande variedade de opções para cada campeão e depois injete a skin escolhida no jogo.
 
