@@ -16,21 +16,21 @@ The creator of this repository believes that with the implementation of predator
 
 ## Additional contents
 
-- Check the [developer-oriented repository](https://github.com/koobzaar/lol-skins-developer), with the champion and skins ID instead of names.
+- Check the [developer-oriented repository](https://github.com/darkseal-org/lol-skins-developer), with the champion and skins ID instead of names.
 - Check out our Discord server: https://discord.gg/ritoskin
-- Wanna donate? Check out my Ko-Fi page: https://ko-fi.com/koobzaar
+- Wanna donate? Check out my Ko-Fi page: https://ko-fi.com/darksealorg
 - Check the tutorial for using this repository: [RitoSkin - Tutorials](https://www.youtube.com/playlist?list=PLmfRqBUHwQjJKuxoVOiocEoJPi8SnJSRG)
 
 ## How to use
 
-You can use any tool that allows custom skin injection, or, check out [Exalted](https://ko-fi.com/koobzaar):
+You can use any tool that allows custom skin injection, or, check out [Exalted](https://ko-fi.com/darksealorg):
 
 
 > [!IMPORTANT]
 > Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/koobzaar/lol-skins/blob/master/README.pt-br.md) deste README.
 
 
-Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/koobzaar/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game.
+Exalted is our private tool that works by loading a catalog of skins from our [lol-skins-developer](https://github.com/darkseal-org/lol-skins-developer) repository allowing you to browse through a wide variety of options for each champion, and then injecting your chosen skin into the game.
 
 - One click injection. Choose your champion then choose your skin. That's it.
 - Always up-to-date catalog. Don't need to be browsing lol-skins everyday. New skin available? It will automatically appear in Exalted.
