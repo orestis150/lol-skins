@@ -42,14 +42,14 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
 > [!WARNING]  
-> 我们很高兴与大家分享：Exalted已成功完成移植，并已在中国正式上线运营！衷心感谢 jinjutwo 的辛勤付出与重要贡献——正是有了他的努力，才让这一切成为可能！
+> 我们正在努力开发Exalted的中国版本，将在v1.6.0版本中发布。特别感谢jinjutwo的辛勤付出与重要贡献，他的努力使这一切成为可能！
 >  
 > **Exalted remains blocked in Korea.**  
 >  
-> If you're in China and want access to Exalted, feel free to email me **after making a donation** to receive the Chinese version.  
+> If you're in China and want access to Exalted, please note that **we are still developing the Chinese version** with all features including party mode. The complete Chinese version will be released in **v1.6.0**.
 >  
 > The **only official representative** of **lol-skins** in China for **development and technical issues** is **@jinjutwo** (*fong.wo* on Discord), who maintains the [lol-skins-developer repository on Gitee](https://gitee.com/jinjutwo/lol-skins-developer).  
-> **For donations and access, please contact us directly.**  
+> **For donations and access, please contact us directly.**
 
 https://github.com/user-attachments/assets/e2510470-914c-47c4-96ea-dd43cdf1d2da
 
