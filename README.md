@@ -41,6 +41,8 @@ Exalted is our private tool that works by loading a catalog of skins from our [l
 
 Exalted is the **only source of income** for this repository. Your donation helps keep skins available for free. Lol-skins will **always remain free**, regardless of donations.
 
+**Please read the instructions before donating**: https://ko-fi.com/Post/Instructions-before-donating-K3K61DFREF
+
 > [!WARNING]  
 > 我们正在努力开发Exalted的中国版本，将在v1.6.0版本中发布。特别感谢jinjutwo的辛勤付出与重要贡献，他的努力使这一切成为可能！
 >  
