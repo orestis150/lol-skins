@@ -50,7 +50,17 @@ Our repository aims to democratize the visual aspects of League of Legends witho
   <p><i>Our tool that sustains the free repository</i></p>
 </div>
 
+<div align="center">
+  
 Exalted is our skin management tool designed to simplify the custom skin experience with advanced features.
+
+  
+![output2](https://github.com/user-attachments/assets/6335e7d0-4cab-405c-9f1c-c3cdd9111d81)
+
+  
+*Preview of Exalted in action*
+  
+
 
 Exalted uses the same skins as this repository, therefore, you can get it only to help the developers. 
 
@@ -82,7 +92,7 @@ By offering Exalted as a reward for those who support our project, we can contin
     </tr>
   </table>
 </div>
-
+</div>
 ### How to Obtain Exalted
 
 <details>
