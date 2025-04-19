@@ -85,7 +85,6 @@ By offering Exalted as a reward for those who support our project, we can contin
       <td>
         <ul>
           <li>Party mode to see friends' skins</li>
-          <li>Shareable license (friends don't need to purchase)</li>
           <li>Modern user interface</li>
         </ul>
       </td>
@@ -112,7 +111,6 @@ By offering Exalted as a reward for those who support our project, we can contin
 3. **Installation**:
    - Follow the instructions in the email
    - Download the installer and run as administrator
-   - Log in with the provided credentials
 </details>
 
 <details>
