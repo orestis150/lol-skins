@@ -92,7 +92,8 @@ By offering Exalted as a reward for those who support our project, we can contin
   </table>
 </div>
 </div>
-### How to Obtain Exalted
+
+## How to Obtain Exalted
 
 <details>
 <summary><strong>Option 1: Support through Donation</strong></summary>
