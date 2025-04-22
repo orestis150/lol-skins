@@ -47,9 +47,7 @@ Nosso repositório tem como objetivo democratizar os aspectos visuais do League 
 <div align="center">
   <img src="https://i.imgur.com/h1Jpom2.png" alt="Exalted Logo" width="200"/>
   <p><i>Nossa ferramenta que sustenta o repositório gratuito</i></p>
-
-
-![output2](https://github.com/user-attachments/assets/6335e7d0-4cab-405c-9f1c-c3cdd9111d81)
+</div>
 
 O Exalted é nossa ferramenta de gerenciamento de skins projetada para simplificar a experiência de skins personalizadas com recursos avançados.
 
@@ -59,7 +57,7 @@ O Exalted usa as mesmas skins deste repositório, portanto, você pode obtê-lo 
 
 Ao oferecer o Exalted como recompensa para aqueles que apoiam nosso projeto, podemos continuar nossa missão de tornar a cultura dos jogos mais acessível a todos. Sua doação ajuda a financiar o desenvolvimento contínuo, custos de servidor e atualizações regulares para manter todas as skins disponíveis gratuitamente no repositório.
 
-
+<div align="center">
   <table>
     <tr>
       <td><strong>Recursos Básicos</strong></td>
@@ -83,29 +81,30 @@ Ao oferecer o Exalted como recompensa para aqueles que apoiam nosso projeto, pod
     </tr>
   </table>
 </div>
-<div align="center">
 
-  
-## Como Obter o Exalted
+### Como Obter o Exalted
 
-Estamos cientes que doações em dólar são fora da realidade brasileira, até porque **eu sou brasileiro**. <br> Portanto, exclusivamente para o Brasil, aceitamos doações acima de R$50,00 via LivePix:
-</div>
+<details>
+<summary><strong>Opção para Brasileiros: Doação via PIX</strong></summary>
 
-## Instruções
+Estamos cientes que doações em dólar são fora da realidade brasileira, até porque **eu sou brasileiro**. Portanto, exclusivamente para o Brasil, aceitamos doações acima de R$50,00 via Pix:
 
-- Acesse: https://livepix.gg/samidot/exalted
-- Com o valor mínimo de R$50,00 você automaticamente poderá resgatar a recompensa de cargos do servidor usando o LivePix.
+1. **Chave PIX**: 
+   ```
+   b2763e55-ac97-4963-83e9-d9827caed2de
+   ```
 
-**Detalhes**:
-- Acesso vitalício - compre uma vez, tenha acesso para sempre. 
-- Compartilhe com amigos - dividindo o custo, sai por menos de R$10,00 para cada um.
-- Recomendamos dividir com, no máximo, 4 amigos. Não sabemos se alteraremos futuramente nosso métodode mercado.
+2. **Após a doação**:
+   - Envie um e-mail com o comprovante para: bruno.trigueiro@pm.me
+   - Você receberá instruções para acessar o Exalted
 
-> [!IMPORTANT]
-> Para suporte especificamente com o LivePix ou doações para brasileiros, você pode mandar um e-mail para `bruno.trigueiro@pm.me`. 
-> Dependendo do horário (se for entre 18h e 14h), pode ser que eu demore um pouco pra responder.
+3. **Benefícios**:
+   - Acesso vitalício - compre uma vez, tenha acesso para sempre
+   - Compartilhe com amigos - dividindo o custo, sai por menos de R$10,00 para cada um
+</details>
 
-## Ou receba gratuitamente: contribua com o projeto
+<details>
+<summary><strong>Opção 2: Contribuir com o Projeto</strong></summary>
 
 Você pode ganhar acesso ao Exalted contribuindo ativamente com o projeto:
 
@@ -123,6 +122,7 @@ Você pode ganhar acesso ao Exalted contribuindo ativamente com o projeto:
    - Participe de discussões no Discord
    - Ajude outros usuários a solucionar problemas
    - Reporte informações detalhadas sobre bugs
+</details>
 
 > [!IMPORTANT]
 > O Exalted representa nossa única fonte de renda para manter este repositório. Ao nos apoiar através de uma doação, você não apenas ganha acesso a uma ferramenta premium, mas também ajuda a garantir que as skins do League of Legends permaneçam acessíveis gratuitamente para todos através do nosso repositório.
