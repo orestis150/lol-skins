@@ -1,6 +1,3 @@
 # Guqin Sona Chromas
 
-| Preview | Chroma Name | Chroma ID |
-|---|---|---|
-| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/37/37008.png' alt='Guqin Sona' width='100'> | Guqin Sona | 37008 |
-| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/37/37055.png' alt='Guqin Sona' width='100'> | Guqin Sona | 37055 |
+| Index  Preview | Chroma Name | Chroma ID ||------|---|---|| 01  <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/37/37008.png' alt='Guqin Sona' width='100'> | Guqin Sona | 37008 || 02  <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/37/37055.png' alt='Guqin Sona' width='100'> | Guqin Sona | 37055 |
