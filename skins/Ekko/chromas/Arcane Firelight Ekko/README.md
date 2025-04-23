@@ -1,0 +1,12 @@
+# Arcane Firelight Ekko Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245037.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245037 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245038.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245038 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245039.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245039 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245040.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245040 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245041.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245041 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245042.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245042 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245043.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245043 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/245/245044.png' alt='Arcane Firelight Ekko' width='100'> | Arcane Firelight Ekko | 245044 |

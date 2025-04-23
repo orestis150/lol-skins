@@ -1,0 +1,12 @@
+# Astronaut Fizz Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105027.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105027 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105028.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105028 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105029.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105029 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105030.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105030 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105031.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105031 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105032.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105032 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105033.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105033 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105034.png' alt='Astronaut Fizz' width='100'> | Astronaut Fizz | 105034 |

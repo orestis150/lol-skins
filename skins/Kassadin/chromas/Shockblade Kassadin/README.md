@@ -1,0 +1,12 @@
+# Shockblade Kassadin Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38016.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38016 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38017.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38017 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38018.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38018 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38019.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38019 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38020.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38020 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38021.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38021 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38022.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38022 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/38/38023.png' alt='Shockblade Kassadin' width='100'> | Shockblade Kassadin | 38023 |

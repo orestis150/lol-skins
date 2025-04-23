@@ -1,0 +1,7 @@
+# Fizz Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105005.png' alt='Fizz Scorch' width='100'> | Fizz Scorch | 105005 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105006.png' alt='Fizz Scorch' width='100'> | Fizz Scorch | 105006 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/105/105007.png' alt='Fizz Scorch' width='100'> | Fizz Scorch | 105007 |

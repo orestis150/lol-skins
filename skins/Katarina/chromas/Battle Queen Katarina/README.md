@@ -1,0 +1,11 @@
+# Battle Queen Katarina Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55030.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55030 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55031.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55031 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55032.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55032 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55033.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55033 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55034.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55034 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55035.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55035 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/55/55036.png' alt='Battle Queen Katarina' width='100'> | Battle Queen Katarina | 55036 |

@@ -1,0 +1,12 @@
+# Shiba Yuumi Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350040.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350040 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350041.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350041 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350042.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350042 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350043.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350043 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350044.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350044 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350045.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350045 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350046.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350046 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/350/350047.png' alt='Shiba Yuumi' width='100'> | Shiba Yuumi | 350047 |

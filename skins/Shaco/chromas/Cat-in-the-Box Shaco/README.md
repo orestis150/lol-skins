@@ -1,0 +1,10 @@
+# Cat-in-the-Box Shaco Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35065.png' alt='Cat-in-the-Box Shaco' width='100'> | Cat-in-the-Box Shaco | 35065 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35066.png' alt='Cat-in-the-Box Shaco' width='100'> | Cat-in-the-Box Shaco | 35066 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35067.png' alt='Cat-in-the-Box Shaco' width='100'> | Cat-in-the-Box Shaco | 35067 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35068.png' alt='Cat-in-the-Box Shaco' width='100'> | Cat-in-the-Box Shaco | 35068 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35069.png' alt='Cat-in-the-Box Shaco' width='100'> | Cat-in-the-Box Shaco | 35069 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/35/35070.png' alt='Cat-in-the-Box Shaco' width='100'> | Cat-in-the-Box Shaco | 35070 |

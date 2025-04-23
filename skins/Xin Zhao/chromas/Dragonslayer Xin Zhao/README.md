@@ -1,0 +1,10 @@
+# Dragonslayer Xin Zhao Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5014.png' alt='Dragonslayer Xin Zhao' width='100'> | Dragonslayer Xin Zhao | 5014 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5015.png' alt='Dragonslayer Xin Zhao' width='100'> | Dragonslayer Xin Zhao | 5015 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5016.png' alt='Dragonslayer Xin Zhao' width='100'> | Dragonslayer Xin Zhao | 5016 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5017.png' alt='Dragonslayer Xin Zhao' width='100'> | Dragonslayer Xin Zhao | 5017 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5018.png' alt='Dragonslayer Xin Zhao' width='100'> | Dragonslayer Xin Zhao | 5018 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/5/5019.png' alt='Dragonslayer Xin Zhao' width='100'> | Dragonslayer Xin Zhao | 5019 |

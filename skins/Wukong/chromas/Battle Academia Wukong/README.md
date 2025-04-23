@@ -1,12 +1,12 @@
 # Battle Academia Wukong Chromas
 
-| Preview | Chroma ID |
-|---------|-----------|
-| ![62008](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62008.png) | 62008 |
-| ![62009](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62009.png) | 62009 |
-| ![62010](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62010.png) | 62010 |
-| ![62011](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62011.png) | 62011 |
-| ![62012](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62012.png) | 62012 |
-| ![62013](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62013.png) | 62013 |
-| ![62014](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62014.png) | 62014 |
-| ![62015](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62015.png) | 62015 |
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62008.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62008 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62009.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62009 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62010.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62010 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62011.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62011 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62012.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62012 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62013.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62013 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62014.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62014 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/62/62015.png' alt='Battle Academia Wukong' width='100'> | Battle Academia Wukong | 62015 |

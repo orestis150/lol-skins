@@ -1,0 +1,12 @@
+# Sugar Rush Braum Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201025.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201025 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201026.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201026 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201027.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201027 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201028.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201028 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201029.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201029 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201030.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201030 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201031.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201031 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/201/201032.png' alt='Sugar Rush Braum' width='100'> | Sugar Rush Braum | 201032 |

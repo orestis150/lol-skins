@@ -1,0 +1,12 @@
+# Dragonmancer Fiora Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114081.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114081 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114082.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114082 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114083.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114083 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114084.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114084 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114085.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114085 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114086.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114086 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114087.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114087 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/114/114088.png' alt='Dragonmancer Fiora' width='100'> | Dragonmancer Fiora | 114088 |

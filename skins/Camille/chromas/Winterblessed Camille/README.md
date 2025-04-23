@@ -1,0 +1,14 @@
+# Winterblessed Camille Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164033.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164033 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164034.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164034 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164035.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164035 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164036.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164036 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164037.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164037 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164038.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164038 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164039.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164039 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164040.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164040 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164041.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164041 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/164/164042.png' alt='Winterblessed Camille' width='100'> | Winterblessed Camille | 164042 |

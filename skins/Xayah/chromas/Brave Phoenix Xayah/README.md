@@ -1,0 +1,13 @@
+# Brave Phoenix Xayah Chromas
+
+| Preview | Chroma Name | Chroma ID |
+|---|---|---|
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498018.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498018 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498019.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498019 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498020.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498020 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498021.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498021 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498022.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498022 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498023.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498023 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498024.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498024 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498025.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498025 |
+| <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/498/498027.png' alt='Brave Phoenix Xayah' width='100'> | Brave Phoenix Xayah | 498027 |
