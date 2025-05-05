@@ -93,6 +93,9 @@ By offering Exalted as a reward for those who support our project, we can contin
 </div>
 </div>
 
+### Brazil
+
+
 ## How to Obtain Exalted
 
 <details>
@@ -112,6 +115,9 @@ By offering Exalted as a reward for those who support our project, we can contin
 3. **Installation**:
    - Follow the instructions in the email
    - Download the installer and run as administrator
+  
+> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md) deste README.  
+
 </details>
 
 <details>
@@ -335,10 +341,6 @@ Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-
 
 - Exalted is currently not available in Korea
 
-### Brazil
-
-> [!IMPORTANT]
-> Se você é brasileiro, por favor, cheque a [versão em pt-BR](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md) deste README.
 
 ## Contact
 
