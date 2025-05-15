@@ -1,14 +1,10 @@
 # Soul Fighter Viego Chromas
 
-| Chroma ID | Preview | Unique number |
-|---|---|---|
-| `234031` | ![234031](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234031.png) | 1 |
-| `234032` | ![234032](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234032.png) | 2 |
-| `234033` | ![234033](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234033.png) | 3 |
-| `234034` | ![234034](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234034.png) | 4 |
-| `234035` | ![234035](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234035.png) | 5 |
-| `234036` | ![234036](https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234036.png) | 6 |
-
----
-
-**Note:** 'Unique number' is just a sequential counter for the chromas listed in the API for this skin.
+| Index | Preview | Chroma Name | Chroma ID |
+|:---|:---|:---|:---|
+| 01 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234031.png' alt='Chroma 234031' width='100'> | Chroma 234031 | 234031 |
+| 02 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234032.png' alt='Chroma 234032' width='100'> | Chroma 234032 | 234032 |
+| 03 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234033.png' alt='Chroma 234033' width='100'> | Chroma 234033 | 234033 |
+| 04 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234034.png' alt='Chroma 234034' width='100'> | Chroma 234034 | 234034 |
+| 05 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234035.png' alt='Chroma 234035' width='100'> | Chroma 234035 | 234035 |
+| 06 | <img src='https://raw.communitydragon.org/latest/plugins/rcp-be-lol-game-data/global/default/v1/champion-chroma-images/234/234036.png' alt='Chroma 234036' width='100'> | Chroma 234036 | 234036 |
