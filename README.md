@@ -18,7 +18,7 @@
   
   [![GitHub stars](https://img.shields.io/github/stars/darkseal-org/lol-skins?style=social)](https://github.com/darkseal-org/lol-skins/stargazers)
   [![GitHub issues](https://img.shields.io/github/issues/darkseal-org/lol-skins)](https://github.com/darkseal-org/lol-skins/issues)
-  [![Discord](https://img.shields.io/discord/ritoskin?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/ritoskin)
+  [![Discord](https://img.shields.io/discord/ritoskin?color=7289DA&label=Discord&logo=discord&logoColor=white)](https://discord.gg/XynTNdWYtT)
   [![pt-br](https://img.shields.io/badge/lang-pt--br-green.svg)](https://github.com/darkseal-org/lol-skins/blob/master/README.pt-br.md)
 </div>
 
