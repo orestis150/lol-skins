@@ -171,7 +171,7 @@ Each champion folder contains skin files in `.zip` format, organized by skin ID.
 | Resource | Description | Link |
 |----------|-------------|------|
 | Developer Repository | Contains champion and skin IDs instead of names | [GitHub](https://github.com/darkseal-org/lol-skins-developer) |
-| Discord Server | Community support and announcements | [Join Discord](https://discord.gg/ritoskin) |
+| Discord Server | Community support and announcements | [Join Discord](https://discord.gg/XynTNdWYtT) |
 | Video Tutorials | Step-by-step guides for using this repository | [YouTube Playlist](https://www.youtube.com/playlist?list=PLmfRqBUHwQjJKuxoVOiocEoJPi8SnJSRG) |
 | Ko-Fi Page | Support project development | [Ko-Fi](https://ko-fi.com/darksealorg) |
 
