@@ -35,7 +35,7 @@ Custom skins are purely cosmetic and only visible to the player using them, offe
 
 ## Philosophy
 
-We believe that gaming culture should be inclusive and accessible, not just a privilege for those who can afford it. The introduction of premium skins with prohibitive pricing (such as exclusive skins costing the equivalent of multiple months' wages in some regions) has created a significant barrier for many players.
+The introduction of premium skins with prohibitive pricing (such as exclusive skins costing the equivalent of multiple months' wages in some regions) has created a significant barrier for many players.
 
 > We hold that gaming culture should be inclusive and accessible, not just a privilege for those who can afford it.
 
