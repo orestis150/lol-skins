@@ -318,13 +318,12 @@ Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-
 ### China
 
 > [!WARNING]
-> 中国版本暂时匹配模式和大乱斗模式会有封禁危险，请斟酌使用！
+> 注意！Exalted不能搭配其他第三方插件/软件使用，如有发生封号情况，后果自负！
 
 - Exalted Chinese exclusive version now available
 - The official representative for China is @jinjutwo (fong.wo on Discord)
 - Chinese users can access the [lol-skins-developer repository on Gitee](https://gitee.com/jinjutwo/lol-skins-developer)
 - For donations and access, please contact us directly
-- 注意！Exalted不能搭配战绩查询器使用，例如萨勒芬妮等等，因为战绩查询器是不允许使用的，如果发生封号情况，后果自负！
 
 <details>
 <summary><strong>China-specific Information</strong></summary>
