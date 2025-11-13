@@ -321,7 +321,7 @@ Submit issues to our [GitHub issue tracker](https://github.com/darkseal-org/lol-
 > 注意！Exalted不能搭配其他第三方插件/软件使用，如有发生封号情况，后果自负！
 
 - Exalted Chinese exclusive version now available
-- The official representative for China is @jinjutwo (fong.wo on Discord)
+- The official representative for China is @jinjutwo
 - Chinese users can access the [lol-skins-developer repository on Gitee](https://gitee.com/jinjutwo/lol-skins-developer)
 - For donations and access, please contact us directly
 
